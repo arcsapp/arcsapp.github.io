@@ -1,0 +1,14 @@
+.centered-container {
+    position: absolute;
+    top: 48%;
+    left: 48%;
+    -moz-transform: translateX(-48%) translateY(-48%);
+    -webkit-transform: translateX(-48%) translateY(-48%);
+    transform: translateX(-48%) translateY(-48%);
+}
+
+.coming-soon {
+    font-size: 30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
